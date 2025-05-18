@@ -40,3 +40,8 @@ This project focused on building a deep learning model to estimate a person’s 
 - Future versions could incorporate metadata (e.g., gender, region) for better accuracy
 - Model could be deployed in a Streamlit interface or integrated into a retail kiosk application
 
+## Author
+
+Heather Marie Culligan  
+[LinkedIn](https://linkedin.com/in/hmc2025)  
+[GitHub](https://github.com/hmc9898)
